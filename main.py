@@ -7,5 +7,4 @@ print(calculate.x)
 print("Let starts the program and welcome")
 
 
-def foo(x):
-    return x
+print("Bye Bye! See you Tomorrow")
